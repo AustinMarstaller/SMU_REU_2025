@@ -20,6 +20,9 @@ project:
       children:
         - file: lectures/week1.md
         - file: lectures/week2.md
+        - file: lectures/week3.md
+        - file: lectures/week4.md
+        - file: lectures/week5.md
     
 site:
   # For now, the book-theme template is the most appropriate for a general site

@@ -9,7 +9,7 @@ site:
 ::::{div}
 :class: banner-container
 
-  :::{image} resources/top_mountains_clouds.jpg
+  :::{image} resources/books.jpg
   :class: banner-image
   :alt: Colorado mountains with clouds
   :::

@@ -3,7 +3,7 @@ title: Timeline
 ---
 
 :::{pull-quote}
-Put a quote here
+Eleganz sei die Sache der Schuster und Schneider 
 :::
 
  - Arrival (06/18 - 06/22):

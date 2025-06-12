@@ -28,7 +28,7 @@ site:
 # Welcome
 
 
-Welcome to the $2025$ Summer REU hosted by the [Computational & Applied Mathematics department](https://www.smu.edu/dedman/academics/departments/math/research) at Southern Methodist University. The Principle Investigators of the REU are Dr. Alejandro Aceves and Dr. Joe Camp. There are four graduate teaching assistants: Daniel Margolis, Showe Liou, Mason McCullum, and Austin Marstaller. 
+Welcome to the $2025$ Summer REU hosted by the [Computational & Applied Mathematics department](https://www.smu.edu/dedman/academics/departments/math/research) at Southern Methodist University. This REU is supported by the NSF/RTG award # 1840260: “RTG: Modeling and Computations for Complex Systems at Southern Methodist University” (PI: dr. Alejandro Aceves) and NSF Award #2512931: ”EAGER: NAIRR Pilot Expansion: FA1: Swarm Coordination and Autonomous Learning for Emerging Researchers (SCALE)” (PI: Dr. Joseph Camp).
 
 :::{danger} Summer weather
 

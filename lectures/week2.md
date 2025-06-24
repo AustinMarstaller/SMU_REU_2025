@@ -9,3 +9,6 @@ Consider the forced harmonic oscillator $$\frac{d^{2}X}{dt^{2}} + \Omega^{2}X = 
 ```{exercise} 
 Consider $\frac{dX^{2}}{dt^{2}} + \Omega^{2}X = \beta X^{3}$ with initial conditions $X(0)=1$, $\frac{dX}{dt}(0)=0$. Choose a value for the constant $\Omega$. Explore what happens when $\beta = 0.1$ and $\beta = 1$. Explain thoroughly your observations and numerical method.
 ```
+
+### 06/23
+
